@@ -1,0 +1,9 @@
+E:\Achivos\proyectos\c#\Patron\Patron\bin\Debug\Patron.exe.config
+E:\Achivos\proyectos\c#\Patron\Patron\bin\Debug\Patron.exe
+E:\Achivos\proyectos\c#\Patron\Patron\bin\Debug\Patron.pdb
+E:\Achivos\proyectos\c#\Patron\Patron\obj\Debug\Patron.csprojAssemblyReference.cache
+E:\Achivos\proyectos\c#\Patron\Patron\obj\Debug\Patron.Form1.resources
+E:\Achivos\proyectos\c#\Patron\Patron\obj\Debug\Patron.Properties.Resources.resources
+E:\Achivos\proyectos\c#\Patron\Patron\obj\Debug\Patron.csproj.GenerateResource.cache
+E:\Achivos\proyectos\c#\Patron\Patron\obj\Debug\Patron.exe
+E:\Achivos\proyectos\c#\Patron\Patron\obj\Debug\Patron.pdb
